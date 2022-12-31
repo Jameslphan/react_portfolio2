@@ -1,0 +1,40 @@
+{
+    "portfolio": [
+        {
+            "cover": "/portfolio/breaktime/Break.jpg",
+            "title": "Break Moderator",
+            "description": "Break-time with superheroes, antiheroes, to supervillians!",
+            "url": "https://yxx-dev.github.io/Fun-break-fortifier-official/"
+        },
+        {
+            "cover": "/portfolio/CMEV/CMEV_Survey.png",
+            "title": "CMEV Survey",
+            "description": "A step towards going green!",
+            "url": "https://blooming-garden-02531.herokuapp.com/login"
+        },
+        {
+            "cover": "/portfolio/PortFi/PortFi.png",
+            "title": "PortFi",
+            "description": "Smart solutions for smart problems",
+            "url": "https://portfi-charging.herokuapp.com/"
+        },
+        {
+            "cover": "/portfolio/googlebooks/Saved.png",
+            "title": "Book Search Engine",
+            "description": "Curates your own list of must reads.",
+            "url": "https://basicbooksearch.herokuapp.com/"
+        },
+        {
+            "cover": "/portfolio/Tech-Blog/Signin.jpg",
+            "title": "Coffee Tech-Blog & Repeat",
+            "description": "Grab some coffee, have a seat, and share your thoughts.",
+            "url": "https://coffee-tech-blog-repeat.herokuapp.com/"
+        },
+        {
+            "cover": "/portfolio/ReactPortfolio/ReactPortfolio.png",
+            "title": "React Profile",
+            "description": "Tech-Blog is a blog site where users can create an account and post ideas, opinions, random-thoughts anything really. Just like having a conversation users can respond by commenting on other's posts.",
+            "url": "https://coffee-tech-blog-repeat.herokuapp.com/"
+        }
+    ]
+}

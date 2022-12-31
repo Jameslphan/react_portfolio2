@@ -1,0 +1,100 @@
+.portfolio-page {
+    padding-left: 100px;
+    padding-right: 50px;
+    width: calc(100% - 150px);
+    position: initial;
+    height: 100%;
+    overflow: auto;
+
+    h1.page-title {
+        margin-left: 100px;
+        margin-top: 75px;
+    }
+
+    .images-container {
+        display: flex;
+        gap: 15px;
+        flex-wrap: wrap;
+        padding-bottom: 100px;
+    }
+
+    .image-box {
+        position: relative;
+        flex: 1 1 20%;
+        height: 360px;
+        overflow: hidden;
+        border-radius: 10px;
+        max-width: calc(25% - 10px);
+
+        .portfolio-image {
+            position: absolute;
+            z-index: 2;
+            width: 100%;
+            height: 100%;
+            object-fit:scale-down;
+        }
+
+        .content {
+            position: absolute;
+            text-align: center;
+            width: 100%;
+            height: 110px;
+            z-index: 3;
+            padding: 10px, 20px;
+            transition: all cubic-bezier(0.645, 0.045, 0.355, 1);
+            background: linear-gradient(
+                180deg, 
+                rgb(9, 9, 9) 0, 
+                rgb(46, 3, 217)
+            );
+        }    
+
+        .title {
+            padding-top: 10px;
+            font-family: 'La Belle Aurore', cursive;
+            margin-bottom: 10px;
+            margin-top: 10px;
+            color: #fff;
+            font-size: 24px;
+            font-weight: 500;
+            line-height: 15px;
+
+            .make-red {
+                color: rgb(242, 45, 45);
+            }
+
+            .make-green {
+                color: rgb(14, 185, 88);
+            }
+        }
+
+        .description {
+            height: 23px; 
+            font-size: 14px;
+            margin-bottom: 5px;
+            color: #fff;
+            font-weight: 700;
+            overflow: scroll;
+
+        } 
+        
+        .btn {
+            color: rgb(242, 45, 45);
+            background-color: #333;
+            font-size: 13px;
+            font-weight: 450;
+            letter-spacing: 4px;
+            font-family: 'Courier New', Courier, monospace;
+            padding: 3px 10px;
+            border: 1px solid rgb(242, 45, 45);
+            border-radius: 3px;
+            animation: fadeIn 1s 1.9s backwards;
+            white-space: nowrap;
+
+            &:hover {
+                background: rgb(242, 45, 45);
+                color: #333;
+            }
+        }
+    }
+}
