@@ -3,8 +3,8 @@
 ## Description
 This is a portfolio to showcase my work built using the React framework. 
 
-## Heroko Deployed
-https://basicbooksearch.herokuapp.com/
+## Github Deployed
+In work
 
 ## Technolobies Utilized
 - React
