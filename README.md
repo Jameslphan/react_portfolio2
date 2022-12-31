@@ -14,7 +14,7 @@ In work
 ## Usage
 For demonstration purpose only. <br />
 Screenshot: <br />
-![alt text](/react-portfolio/public/portfolio/ReactPortfolio/ReactPortfolio.png)
+![alt text](/react_portfolio2/public/portfolio/ReactPortfolio/ReactPortfolio.png)
 
 ## Features
 - Can navigate the sidebar to see the:
