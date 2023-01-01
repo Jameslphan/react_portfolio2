@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/react_portfolio2/static/css/main.7cc2855e.css",
+    "main.js": "/react_portfolio2/static/js/main.78827822.js",
+    "static/js/787.a2cb61a6.chunk.js": "/react_portfolio2/static/js/787.a2cb61a6.chunk.js",
+    "static/media/Japan.png": "/react_portfolio2/static/media/Japan.3e405f986b29aad239bb.png",
+    "static/media/Seahawksguysnight.jpeg": "/react_portfolio2/static/media/Seahawksguysnight.b08728d1744cae938ff1.jpeg",
+    "static/media/Helvetica-neu.ttf": "/react_portfolio2/static/media/Helvetica-neu.8a19678078a6b21c8057.ttf",
+    "static/media/LaBelleAurore.woff2": "/react_portfolio2/static/media/LaBelleAurore.a83c1c58fd7e43972e4a.woff2",
+    "static/media/CoolveticaRg-Regular.woff2": "/react_portfolio2/static/media/CoolveticaRg-Regular.7d1f3b1dd46ad6557a17.woff2",
+    "index.html": "/react_portfolio2/index.html",
+    "main.7cc2855e.css.map": "/react_portfolio2/static/css/main.7cc2855e.css.map",
+    "main.78827822.js.map": "/react_portfolio2/static/js/main.78827822.js.map",
+    "787.a2cb61a6.chunk.js.map": "/react_portfolio2/static/js/787.a2cb61a6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7cc2855e.css",
+    "static/js/main.78827822.js"
+  ]
+}
